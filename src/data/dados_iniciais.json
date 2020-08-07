@@ -1,0 +1,181 @@
+{
+  "categorias": [
+    {
+      "titulo": "Call of duty:MW 2020",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#0B9DF8",
+      "link_extra": {
+        "text": "A primeira hora",
+        "url": "https://www.youtube.com/watch?v=-KlhMb2FOq4"
+      },
+      "videos": [
+        {
+          "titulo": "Tudo sobre a historia dos zumbis",
+          "url": "https://www.youtube.com/watch?v=zfHrE7AktPs"
+        },
+        {
+          "titulo": "Começando a campanha",
+          "url": "https://www.youtube.com/watch?v=VO9VwF4OIW0"
+        },
+        {
+          "titulo": "Caça ao terror",
+          "url": "https://www.youtube.com/watch?v=NeLeCAJki3c"
+        },
+        {
+          "titulo": "Novidades sobre o WARzone",
+          "url": "https://www.youtube.com/watch?v=oQzBcSQEjfA"
+        },
+        {
+          "titulo": "O melhor jogador brasileiro de WARzone",
+          "url": "https://www.youtube.com/watch?v=U-ZPW3a6RqQ"
+        },
+        {
+          "titulo": "Dicas para mandar bem com um mestre do cod",
+          "url": "https://www.youtube.com/watch?v=gsARBYZ3iGg"
+        }        
+      ]
+    },
+    {
+      "titulo": "Call of duty:WW2",
+      "cor": "#956703",
+      "link_extra": {
+        "text": "Dia D, um acontecimento real fielmente retratado",
+        "url": "https://www.youtube.com/watch?v=8sr2eOwdDaE"
+      },
+      "videos": [
+        {
+          "titulo": "Desembarcando na normandia",
+          "url": "https://www.youtube.com/watch?v=AMsJeA8pw34"
+        },
+        {
+          "titulo": "Azaghal estrategista de guerra",
+          "url": "https://www.youtube.com/watch?v=XbLcYGpoqKg"
+        },
+        {
+          "titulo": "A primeira hora da guerra",
+          "url": "https://www.youtube.com/watch?v=b844i4uJZgE"
+        },
+        {
+          "titulo": "Dicas de classes para o multiplayer",
+          "url": "https://www.youtube.com/watch?v=0PA6Vln3Ang"
+        }, 
+        {
+          "titulo": "Completando o easter egg de um jeito fácil",
+          "url": "https://www.youtube.com/watch?v=XbL2Ol3GzjA&t=419s"
+        }
+      ]
+    },
+    {
+      "titulo": "Call of duty:BO2",
+      "cor": "#FB5508",
+      "link_extra": {
+        "text": " O mais famoso player de BO2",
+        "url": "https://www.youtube.com/watch?v=lrMt-AeUeqw"
+      },
+      "videos": [
+        {
+          "titulo": "Do primeiro ao último nível",
+          "url": "https://www.youtube.com/watch?v=1fesq-UqgPQ"
+        },
+        {
+          "titulo": "Gameplays européias",
+          "url": "https://www.youtube.com/watch?v=8Jt2P7PFM0o"
+        },
+        {
+          "titulo": "A parte mais marcante da campanha",
+          "url": "https://www.youtube.com/watch?v=YfpzdKx428E&t=119s"
+        },
+        {
+          "titulo": "Uma corrida até o ouro",
+          "url": "https://www.youtube.com/watch?v=AeDdlnKO77o"
+        }
+      ]
+    },
+    {
+      "titulo": "Call of duty:BO2 ZOMBIES",
+      "cor": "orange",
+      "link_extra": {
+        "text": " As melhores dicas para o melhor modo",
+        "url": "https://www.youtube.com/watch?v=ognXVC8e8g8"
+      },
+      "videos": [
+        {
+          "titulo": "O melhor mapa para jogar casualmente",
+          "url": "https://www.youtube.com/watch?v=fQ4KcdkEZ2E"
+        },
+        {
+          "titulo": " SO7 e BRKsEDU juntos, quando isso aconteceria de novo?",
+          "url": "https://www.youtube.com/watch?v=9yCC4zE2zr4"
+        },
+        {
+          "titulo": "Loucoop a melhor série de um dos maiores youtubers",
+          "url": "https://www.youtube.com/watch?v=xLMJArKJ7QU"
+        },
+        {
+          "titulo": "As crônicas de um zumbi",
+          "url": "https://www.youtube.com/watch?v=_6QNMyIsAhY"
+        }
+      ]
+    },
+    {
+      "titulo": "Call of duty:BO1",
+      "cor": "gray",
+      "link_extra": {
+        "text": " O melhor jogador de Black Ops 1",
+        "url": "https://www.youtube.com/watch?v=_NYDDjDXZAE"
+      },
+      "videos": [
+        {
+          "titulo": "BO1: dicas para mandar bem",
+          "url": "https://www.youtube.com/watch?v=PFQRZESny7U"
+        },
+        {
+          "titulo": "Começando a campanha",
+          "url": "https://www.youtube.com/watch?v=8SL2enB2m3w"
+        },
+        {
+          "titulo": "Um pouco do melhor modo de cod",
+          "url": "https://www.youtube.com/watch?v=7lLOrHfCDOE"
+        },
+        {
+          "titulo": "Zumbis no pentagono",
+          "url": "https://www.youtube.com/watch?v=2A18RNw5FJM"
+        },
+        {
+          "titulo": "Momentos engraçados do 'Desce pro play'",
+          "url": "https://www.youtube.com/watch?v=R4qP2M9yKdI"
+        }
+      ]
+    },
+    {
+      "titulo": "Call of duty:MW2",
+      "cor": "#41F641",
+      "link_extra": {
+        "text": "O maior clássico de Modern Warfare 2",
+        "url": "https://www.youtube.com/watch?v=5uCC_ObwqzE"
+      },
+      "videos": [
+        {
+          "titulo": "Um final inesperado",
+          "url": "https://www.youtube.com/watch?v=VSOrHMDjMS8"
+        },
+        {
+          "titulo": "Um novo começo",
+          "url": "https://www.youtube.com/watch?v=ycF0Gk7yxSQ"
+        },
+        {
+          "titulo": "Os melhores trickshots",
+          "url": "https://www.youtube.com/watch?v=2qczCbwOmoQ"
+        },
+        {
+          "titulo": "11 anos de diferença",
+          "url": "https://www.youtube.com/watch?v=DqC1S_tbwTQ"
+        },
+        {
+          "titulo": "Snipers em Chernobyl",
+          "url": "https://www.youtube.com/watch?v=_hcTT7pSHng"
+        }
+      ]
+    }
+  ]
+}
